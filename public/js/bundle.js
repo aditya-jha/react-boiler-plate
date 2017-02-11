@@ -21689,7 +21689,7 @@ var ReactDOM = __webpack_require__(79);
 ReactDOM.render(React.createElement(
     'h1',
     null,
-    'Hello React'
+    'Hello React!'
 ), document.querySelector("#app"));
 
 /***/ })
