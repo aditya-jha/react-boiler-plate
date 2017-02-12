@@ -5,6 +5,7 @@
 "use strict";
 
 let config = {
+    devtool: 'cheap-module-source-map',
     entry: './src/app.jsx',
     output: {
         path: __dirname,
